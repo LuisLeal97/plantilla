@@ -1,0 +1,64 @@
+
+nav{
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    box-shadow: 2px 0px 7px #000;
+	z-index: 50;
+}
+
+
+#cabecera
+{
+
+margin-top: 90px;
+
+background-image:  url(../image/fondo.png);
+background-size: cover;
+max-width: 500xp;
+
+}
+#trasparencia
+{
+	background-color: rgba(17, 3, 80,0.7);
+}
+
+
+body
+{
+	font-family: 'Laila', serif;
+	background-image: url(../image/background.jpg);
+	background-size: contain;
+}
+
+#producto
+{
+
+background-color: rgba(8, 68, 110,0.7)    ;
+
+padding: 50px 0px 30px 0px;
+text-align: center;
+margin-top: 30px;
+}
+
+
+
+#contacto
+{
+
+background-color: rgba(70, 43, 108,0.7)   ;
+padding: 50px 0px 30px 0px;
+text-align: center;
+margin-top: 30px;
+}
+#pie
+{
+
+background-color: rgba(109, 4, 122,0.7)   ;
+padding: 10px 0px 10px 0px;
+text-align: center;
+margin-top: 10px;
+}
+
+
+
